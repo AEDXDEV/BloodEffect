@@ -1,0 +1,9 @@
+---
+name: BloodEffect
+author: AEDXDEV
+version: 1.0.0
+description: When a player gets damage, particle blood is added
+main: Blood\BloodEffect
+api: 
+- 4.0.0
+...
