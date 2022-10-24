@@ -1,0 +1,9 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/AEDXDEV/BloodEffect
+build-by-default: true
+branches:
+- main
+projects:
+  BloodEffect:
+    path: ""
+    icon: icon.png
+...
